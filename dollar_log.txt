@@ -1,0 +1,491 @@
+--------------------------------------------------------------------------
+[2021-07-06 18:18:12] Run Gdollar!
+[2021-07-06 18:18:25] Start -->
+[2021-07-06 18:18:25] Pattern (AK1021-9)
+						 key: 161, mouse: 06, ctrl+tab: 01, alt+tab: 02 
+[2021-07-06 18:28:32] Pattern (QP1121-3)
+						 key: 039, mouse: 04, ctrl+tab: 00, alt+tab: 01 
+[2021-07-06 18:39:01] Pattern (KS1022-5)
+[2021-07-06 18:47:45] Stop <--
+[2021-07-06 18:47:45] Close GDollar!  (0 h : 29 m : 20 s)
+--------------------------------------------------------------------------
+[2021-07-07 06:52:50] Run Gdollar!
+[2021-07-07 06:53:11] Start -->
+[2021-07-07 06:53:11] Pattern (QP1121-3)
+						 key: 165, mouse: 19, ctrl+tab: 01, alt+tab: 04 
+[2021-07-07 07:03:46] Pattern (CP1104-7)
+						 key: 054, mouse: 07, ctrl+tab: 01, alt+tab: 05 
+[2021-07-07 07:13:47] Pattern (QP1121-3)
+						 key: 140, mouse: 14, ctrl+tab: 01, alt+tab: 02 
+[2021-07-07 07:23:53] Pattern (AK1021-9)
+						 key: 265, mouse: 19, ctrl+tab: 02, alt+tab: 06 
+[2021-07-07 07:34:22] Pattern (QP1121-3)
+[2021-07-07 07:35:26] Stop <--
+[2021-07-07 07:35:26] Close GDollar!  (0 h : 42 m : 15 s)
+--------------------------------------------------------------------------
+[2021-07-07 11:02:12] Run Gdollar!
+[2021-07-07 11:02:39] Start -->
+[2021-07-07 11:02:39] Pattern (OY1215-4)
+						 key: 202, mouse: 19, ctrl+tab: 01, alt+tab: 03 
+[2021-07-07 11:13:22] Pattern (QP1121-3)
+[2021-07-07 11:23:57] Pattern (OY1215-4)
+						 key: 208, mouse: 21, ctrl+tab: 02, alt+tab: 02 
+[2021-07-07 11:34:01] Pattern (AK1021-9)
+						 key: 358, mouse: 23, ctrl+tab: 04, alt+tab: 02 
+[2021-07-07 11:44:09] Pattern (OY1215-4)
+						 key: 185, mouse: 13, ctrl+tab: 02, alt+tab: 02 
+[2021-07-07 11:54:20] Pattern (KS1022-5)
+						 key: 125, mouse: 00, ctrl+tab: 01, alt+tab: 01 
+[2021-07-07 12:04:38] Pattern (AK1021-9)
+						 key: 264, mouse: 19, ctrl+tab: 03, alt+tab: 02 
+[2021-07-07 12:14:45] Pattern (OY1215-4)
+						 key: 026, mouse: 01, ctrl+tab: 00, alt+tab: 03 
+[2021-07-07 12:25:27] Pattern (CP1104-7)
+						 key: 271, mouse: 23, ctrl+tab: 02, alt+tab: 03 
+[2021-07-07 12:36:29] Pattern (KS1022-5)
+						 key: 113, mouse: 00, ctrl+tab: 02, alt+tab: 03 
+[2021-07-07 12:46:53] Pattern (CP1104-7)
+						 key: 267, mouse: 17, ctrl+tab: 04, alt+tab: 04 
+[2021-07-07 12:57:25] Pattern (QP1121-3)
+						 key: 031, mouse: 02, ctrl+tab: 00, alt+tab: 03 
+[2021-07-07 13:07:42] Pattern (AK1021-9)
+						 key: 306, mouse: 24, ctrl+tab: 04, alt+tab: 02 
+[2021-07-07 13:17:54] Pattern (CP1104-7)
+						 key: 057, mouse: 00, ctrl+tab: 00, alt+tab: 03 
+[2021-07-07 13:27:58] Pattern (OY1215-4)
+[2021-07-07 13:28:52] Stop <--
+[2021-07-07 13:28:52] Close GDollar!  (2 h : 26 m : 13 s)
+--------------------------------------------------------------------------
+[2021-07-07 18:53:56] Run Gdollar!
+[2021-07-07 18:54:35] Start -->
+[2021-07-07 18:54:35] Pattern (AK1021-9)
+						 key: 330, mouse: 15, ctrl+tab: 04, alt+tab: 04 
+[2021-07-07 19:04:49] Pattern (CP1104-7)
+						 key: 240, mouse: 18, ctrl+tab: 02, alt+tab: 03 
+[2021-07-07 19:15:09] Pattern (AK1021-9)
+						 key: 292, mouse: 19, ctrl+tab: 02, alt+tab: 02 
+[2021-07-07 19:25:13] Pattern (OY1215-4)
+						 key: 210, mouse: 21, ctrl+tab: 02, alt+tab: 01 
+[2021-07-07 19:35:52] Pattern (KS1022-5)
+						 key: 207, mouse: 22, ctrl+tab: 04, alt+tab: 03 
+[2021-07-07 19:46:40] Pattern (QP1121-3)
+						 key: 150, mouse: 15, ctrl+tab: 02, alt+tab: 02 
+[2021-07-07 19:56:45] Pattern (KS1022-5)
+						 key: 171, mouse: 18, ctrl+tab: 01, alt+tab: 02 
+[2021-07-07 20:06:45] Pattern (QP1121-3)
+						 key: 177, mouse: 21, ctrl+tab: 02, alt+tab: 02 
+[2021-07-07 20:17:17] Pattern (AK1021-9)
+						 key: 324, mouse: 23, ctrl+tab: 04, alt+tab: 00 
+[2021-07-07 20:27:16] Pattern (KS1022-5)
+						 key: 103, mouse: 00, ctrl+tab: 02, alt+tab: 03 
+[2021-07-07 20:37:26] Pattern (OY1215-4)
+						 key: 187, mouse: 19, ctrl+tab: 01, alt+tab: 04 
+[2021-07-07 20:48:05] Pattern (KS1022-5)
+						 key: 066, mouse: 00, ctrl+tab: 01, alt+tab: 02 
+[2021-07-07 20:58:22] Pattern (CP1104-7)
+						 key: 287, mouse: 21, ctrl+tab: 03, alt+tab: 05 
+[2021-07-07 21:08:28] Pattern (QP1121-3)
+						 key: 134, mouse: 16, ctrl+tab: 01, alt+tab: 01 
+[2021-07-07 21:18:28] Pattern (CP1104-7)
+						 key: 263, mouse: 20, ctrl+tab: 03, alt+tab: 03 
+[2021-07-07 21:28:55] Pattern (AK1021-9)
+						 key: 274, mouse: 23, ctrl+tab: 04, alt+tab: 01 
+[2021-07-07 21:39:32] Pattern (KS1022-5)
+						 key: 207, mouse: 14, ctrl+tab: 02, alt+tab: 02 
+[2021-07-07 21:49:33] Pattern (QP1121-3)
+						 key: 148, mouse: 17, ctrl+tab: 01, alt+tab: 04 
+[2021-07-07 22:00:13] Pattern (AK1021-9)
+						 key: 306, mouse: 22, ctrl+tab: 03, alt+tab: 07 
+[2021-07-07 22:10:56] Pattern (OY1215-4)
+						 key: 222, mouse: 20, ctrl+tab: 02, alt+tab: 02 
+[2021-07-07 22:21:57] Pattern (KS1022-5)
+						 key: 185, mouse: 12, ctrl+tab: 02, alt+tab: 05 
+[2021-07-07 22:32:35] Pattern (AK1021-9)
+[2021-07-07 22:34:09] Stop <--
+[2021-07-07 22:34:09] Close GDollar!  (3 h : 39 m : 34 s)
+--------------------------------------------------------------------------
+[2021-07-08 10:00:31] Run Gdollar!
+[2021-07-08 10:01:02] Start -->
+[2021-07-08 10:01:02] Pattern (OY1215-4)
+						 key: 014, mouse: 01, ctrl+tab: 00, alt+tab: 02 
+[2021-07-08 10:11:21] Pattern (AK1021-9)
+						 key: 050, mouse: 06, ctrl+tab: 00, alt+tab: 03 
+[2021-07-08 10:21:25] Pattern (OY1215-4)
+						 key: 017, mouse: 00, ctrl+tab: 00, alt+tab: 01 
+[2021-07-08 10:31:49] Pattern (AK1021-9)
+						 key: 254, mouse: 21, ctrl+tab: 03, alt+tab: 05 
+[2021-07-08 10:42:03] Pattern (OY1215-4)
+						 key: 220, mouse: 22, ctrl+tab: 02, alt+tab: 03 
+[2021-07-08 10:53:11] Pattern (KS1022-5)
+						 key: 194, mouse: 21, ctrl+tab: 02, alt+tab: 03 
+[2021-07-08 11:03:28] Pattern (CP1104-7)
+						 key: 279, mouse: 21, ctrl+tab: 04, alt+tab: 03 
+[2021-07-08 11:13:49] Pattern (OY1215-4)
+						 key: 041, mouse: 03, ctrl+tab: 00, alt+tab: 01 
+[2021-07-08 11:24:46] Pattern (AK1021-9)
+						 key: 134, mouse: 03, ctrl+tab: 01, alt+tab: 02 
+[2021-07-08 11:34:58] Pattern (KS1022-5)
+						 key: 092, mouse: 05, ctrl+tab: 01, alt+tab: 01 
+[2021-07-08 11:45:10] Pattern (AK1021-9)
+[2021-07-08 11:46:19] Stop <--
+[2021-07-08 12:53:07] Start -->
+						 key: 324, mouse: 16, ctrl+tab: 05, alt+tab: 03 
+[2021-07-08 13:02:01] Pattern (OY1215-4)
+						 key: 205, mouse: 19, ctrl+tab: 02, alt+tab: 03 
+[2021-07-08 13:12:09] Pattern (KS1022-5)
+[2021-07-08 13:20:55] Stop <--
+[2021-07-08 14:04:36] Start -->
+						 key: 204, mouse: 22, ctrl+tab: 04, alt+tab: 03 
+[2021-07-08 14:06:31] Pattern (AK1021-9)
+						 key: 036, mouse: 05, ctrl+tab: 00, alt+tab: 04 
+[2021-07-08 14:16:36] Pattern (QP1121-3)
+						 key: 161, mouse: 17, ctrl+tab: 02, alt+tab: 00 
+[2021-07-08 14:27:32] Pattern (KS1022-5)
+						 key: 164, mouse: 17, ctrl+tab: 01, alt+tab: 01 
+[2021-07-08 14:38:01] Pattern (QP1121-3)
+						 key: 047, mouse: 00, ctrl+tab: 01, alt+tab: 02 
+[2021-07-08 14:48:01] Pattern (OY1215-4)
+						 key: 212, mouse: 18, ctrl+tab: 02, alt+tab: 06 
+[2021-07-08 14:58:12] Pattern (CP1104-7)
+						 key: 311, mouse: 18, ctrl+tab: 02, alt+tab: 00 
+[2021-07-08 15:08:36] Pattern (QP1121-3)
+						 key: 025, mouse: 00, ctrl+tab: 01, alt+tab: 02 
+[2021-07-08 15:18:54] Pattern (KS1022-5)
+						 key: 220, mouse: 18, ctrl+tab: 02, alt+tab: 00 
+[2021-07-08 15:29:07] Pattern (OY1215-4)
+						 key: 201, mouse: 18, ctrl+tab: 01, alt+tab: 03 
+[2021-07-08 15:39:48] Pattern (QP1121-3)
+						 key: 055, mouse: 00, ctrl+tab: 01, alt+tab: 02 
+[2021-07-08 15:50:25] Pattern (KS1022-5)
+[2021-07-08 15:50:37] Stop <--
+--------------------------------------------------------------------------
+[2021-07-12 21:26:43] Run Gdollar!
+[2021-07-12 21:28:05] Start -->
+[2021-07-12 21:28:05] Pattern (QP1121-3)
+						 key: 184, mouse: 12, ctrl+tab: 01, alt+tab: 02 
+[2021-07-12 21:38:46] Pattern (AK1021-9)
+						 key: 274, mouse: 20, ctrl+tab: 03, alt+tab: 01 
+[2021-07-12 21:48:56] Pattern (KS1022-5)
+						 key: 205, mouse: 19, ctrl+tab: 03, alt+tab: 03 
+[2021-07-12 21:59:04] Pattern (QP1121-3)
+[2021-07-12 22:09:23] Pattern (CP1104-7)
+						 key: 296, mouse: 18, ctrl+tab: 03, alt+tab: 00 
+[2021-07-12 22:20:30] Pattern (AK1021-9)
+						 key: 109, mouse: 00, ctrl+tab: 01, alt+tab: 05 
+[2021-07-12 22:30:36] Pattern (OY1215-4)
+						 key: 018, mouse: 00, ctrl+tab: 00, alt+tab: 04 
+[2021-07-12 22:40:39] Pattern (KS1022-5)
+						 key: 089, mouse: 07, ctrl+tab: 01, alt+tab: 03 
+[2021-07-12 22:50:42] Pattern (OY1215-4)
+						 key: 064, mouse: 02, ctrl+tab: 01, alt+tab: 01 
+[2021-07-12 23:00:43] Pattern (CP1104-7)
+						 key: 207, mouse: 18, ctrl+tab: 02, alt+tab: 04 
+[2021-07-12 23:10:45] Pattern (OY1215-4)
+						 key: 203, mouse: 22, ctrl+tab: 02, alt+tab: 03 
+[2021-07-12 23:21:21] Pattern (KS1022-5)
+						 key: 101, mouse: 07, ctrl+tab: 01, alt+tab: 02 
+[2021-07-12 23:31:58] Pattern (CP1104-7)
+						 key: 076, mouse: 00, ctrl+tab: 00, alt+tab: 04 
+[2021-07-12 23:42:01] Pattern (KS1022-5)
+						 key: 072, mouse: 00, ctrl+tab: 01, alt+tab: 03 
+[2021-07-12 23:53:03] Pattern (CP1104-7)
+						 key: 285, mouse: 16, ctrl+tab: 03, alt+tab: 02 
+[2021-07-13 00:03:12] Pattern (KS1022-5)
+						 key: 162, mouse: 09, ctrl+tab: 03, alt+tab: 03 
+[2021-07-13 00:13:29] Pattern (OY1215-4)
+						 key: 203, mouse: 16, ctrl+tab: 02, alt+tab: 01 
+[2021-07-13 00:24:02] Pattern (QP1121-3)
+						 key: 024, mouse: 03, ctrl+tab: 00, alt+tab: 02 
+[2021-07-13 00:34:47] Pattern (AK1021-9)
+[2021-07-13 00:35:11] Stop <--
+[2021-07-13 01:20:04] Close GDollar!  (3 h : 07 m : 06 s)
+--------------------------------------------------------------------------
+[2021-07-13 14:41:59] Run Gdollar!
+[2021-07-13 14:42:27] Start -->
+[2021-07-13 14:42:27] Pattern (AK1021-9)
+						 key: 306, mouse: 24, ctrl+tab: 03, alt+tab: 05 
+[2021-07-13 14:52:27] Pattern (OY1215-4)
+						 key: 213, mouse: 20, ctrl+tab: 02, alt+tab: 02 
+[2021-07-13 15:02:51] Pattern (AK1021-9)
+						 key: 071, mouse: 04, ctrl+tab: 01, alt+tab: 02 
+[2021-07-13 15:13:33] Pattern (OY1215-4)
+						 key: 154, mouse: 18, ctrl+tab: 01, alt+tab: 05 
+[2021-07-13 15:23:43] Pattern (QP1121-3)
+						 key: 198, mouse: 15, ctrl+tab: 03, alt+tab: 02 
+[2021-07-13 15:34:30] Pattern (AK1021-9)
+						 key: 063, mouse: 09, ctrl+tab: 01, alt+tab: 02 
+[2021-07-13 15:44:44] Pattern (OY1215-4)
+						 key: 033, mouse: 01, ctrl+tab: 00, alt+tab: 05 
+[2021-07-13 15:55:30] Pattern (KS1022-5)
+						 key: 066, mouse: 08, ctrl+tab: 02, alt+tab: 04 
+[2021-07-13 16:06:14] Pattern (AK1021-9)
+						 key: 290, mouse: 24, ctrl+tab: 02, alt+tab: 01 
+[2021-07-13 16:16:30] Pattern (OY1215-4)
+[2021-07-13 16:23:18] Stop <--
+[2021-07-13 16:23:18] Close GDollar!  (1 h : 40 m : 51 s)
+--------------------------------------------------------------------------
+[2021-07-14 01:35:23] Run Gdollar!
+[2021-07-14 01:35:38] Start -->
+[2021-07-14 01:35:38] Pattern (QP1121-3)
+						 key: 059, mouse: 00, ctrl+tab: 00, alt+tab: 00 
+[2021-07-14 01:46:05] Pattern (CP1104-7)
+						 key: 270, mouse: 18, ctrl+tab: 03, alt+tab: 03 
+[2021-07-14 01:56:13] Pattern (KS1022-5)
+						 key: 095, mouse: 06, ctrl+tab: 00, alt+tab: 02 
+[2021-07-14 02:06:31] Pattern (QP1121-3)
+						 key: 178, mouse: 12, ctrl+tab: 02, alt+tab: 04 
+[2021-07-14 02:16:55] Pattern (AK1021-9)
+[2021-07-14 02:18:47] Stop <--
+[2021-07-14 02:19:01] Close GDollar!  (0 h : 43 m : 09 s)
+--------------------------------------------------------------------------
+[2021-07-14 02:19:05] Run Gdollar!
+[2021-07-14 02:19:16] Close GDollar!  (0 h : 00 m : 00 s)
+--------------------------------------------------------------------------
+[2021-07-14 02:19:35] Run Gdollar!
+[2021-07-14 02:20:02] Start -->
+[2021-07-14 02:20:02] Pattern (QP1121-3)
+[2021-07-14 02:20:05] Stop <--
+[2021-07-14 02:20:09] Close GDollar!  (0 h : 00 m : 03 s)
+--------------------------------------------------------------------------
+[2021-07-14 02:29:52] Run Gdollar!
+[2021-07-14 02:30:00] Start -->
+[2021-07-14 02:30:00] Pattern (KS1022-5)
+						 key: 136, mouse: 03, ctrl+tab: 01, alt+tab: 02 
+[2021-07-14 02:40:21] Pattern (QP1121-3)
+						 key: 017, mouse: 00, ctrl+tab: 00, alt+tab: 03 
+[2021-07-14 02:50:56] Pattern (AK1021-9)
+						 key: 346, mouse: 16, ctrl+tab: 04, alt+tab: 03 
+[2021-07-14 03:01:24] Pattern (OY1215-4)
+						 key: 184, mouse: 21, ctrl+tab: 02, alt+tab: 04 
+[2021-07-14 03:11:27] Pattern (KS1022-5)
+						 key: 216, mouse: 19, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 03:21:52] Pattern (CP1104-7)
+						 key: 024, mouse: 00, ctrl+tab: 00, alt+tab: 07 
+[2021-07-14 03:32:00] Pattern (AK1021-9)
+[2021-07-14 03:36:14] Stop <--
+[2021-07-14 03:36:14] Close GDollar!  (1 h : 06 m : 14 s)
+--------------------------------------------------------------------------
+[2021-07-14 04:53:20] Run Gdollar!
+[2021-07-14 04:53:31] Start -->
+[2021-07-14 04:53:31] Pattern (QP1121-3)
+						 key: 178, mouse: 16, ctrl+tab: 02, alt+tab: 00 
+[2021-07-14 05:04:13] Pattern (OY1215-4)
+						 key: 208, mouse: 18, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 05:14:51] Pattern (KS1022-5)
+						 key: 082, mouse: 00, ctrl+tab: 01, alt+tab: 02 
+[2021-07-14 05:25:14] Pattern (CP1104-7)
+						 key: 142, mouse: 00, ctrl+tab: 01, alt+tab: 01 
+[2021-07-14 05:35:31] Pattern (QP1121-3)
+[2021-07-14 05:45:43] Pattern (KS1022-5)
+						 key: 102, mouse: 06, ctrl+tab: 02, alt+tab: 05 
+[2021-07-14 05:55:53] Pattern (CP1104-7)
+[2021-07-14 05:58:30] Stop <--
+[2021-07-14 05:58:42] Start -->
+						 key: 126, mouse: 00, ctrl+tab: 01, alt+tab: 07 
+[2021-07-14 06:06:07] Pattern (QP1121-3)
+						 key: 160, mouse: 20, ctrl+tab: 01, alt+tab: 01 
+[2021-07-14 06:16:17] Pattern (OY1215-4)
+						 key: 217, mouse: 18, ctrl+tab: 02, alt+tab: 03 
+[2021-07-14 06:26:50] Pattern (KS1022-5)
+						 key: 266, mouse: 13, ctrl+tab: 03, alt+tab: 02 
+[2021-07-14 06:37:14] Pattern (QP1121-3)
+						 key: 159, mouse: 17, ctrl+tab: 01, alt+tab: 01 
+[2021-07-14 06:48:04] Pattern (AK1021-9)
+						 key: 328, mouse: 18, ctrl+tab: 04, alt+tab: 01 
+[2021-07-14 06:58:47] Pattern (OY1215-4)
+						 key: 017, mouse: 02, ctrl+tab: 01, alt+tab: 02 
+[2021-07-14 07:08:49] Pattern (QP1121-3)
+						 key: 163, mouse: 21, ctrl+tab: 01, alt+tab: 00 
+[2021-07-14 07:19:39] Pattern (AK1021-9)
+						 key: 252, mouse: 15, ctrl+tab: 02, alt+tab: 00 
+[2021-07-14 07:29:42] Pattern (QP1121-3)
+						 key: 149, mouse: 17, ctrl+tab: 02, alt+tab: 02 
+[2021-07-14 07:40:22] Pattern (CP1104-7)
+						 key: 278, mouse: 15, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 07:50:52] Pattern (AK1021-9)
+						 key: 143, mouse: 08, ctrl+tab: 01, alt+tab: 03 
+[2021-07-14 08:00:55] Pattern (OY1215-4)
+						 key: 017, mouse: 02, ctrl+tab: 01, alt+tab: 02 
+[2021-07-14 08:11:17] Pattern (CP1104-7)
+						 key: 292, mouse: 16, ctrl+tab: 02, alt+tab: 04 
+[2021-07-14 08:21:38] Pattern (QP1121-3)
+						 key: 038, mouse: 01, ctrl+tab: 00, alt+tab: 01 
+[2021-07-14 08:32:18] Pattern (AK1021-9)
+						 key: 048, mouse: 12, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 08:42:21] Pattern (QP1121-3)
+						 key: 005, mouse: 00, ctrl+tab: 00, alt+tab: 01 
+[2021-07-14 08:53:02] Pattern (OY1215-4)
+						 key: 170, mouse: 19, ctrl+tab: 02, alt+tab: 02 
+[2021-07-14 09:03:04] Pattern (QP1121-3)
+						 key: 035, mouse: 00, ctrl+tab: 01, alt+tab: 01 
+[2021-07-14 09:13:16] Pattern (OY1215-4)
+[2021-07-14 09:24:03] Pattern (AK1021-9)
+						 key: 091, mouse: 00, ctrl+tab: 01, alt+tab: 03 
+[2021-07-14 09:34:19] Pattern (OY1215-4)
+						 key: 031, mouse: 01, ctrl+tab: 00, alt+tab: 05 
+[2021-07-14 09:44:48] Pattern (KS1022-5)
+						 key: 112, mouse: 04, ctrl+tab: 01, alt+tab: 02 
+[2021-07-14 09:55:03] Pattern (CP1104-7)
+						 key: 287, mouse: 18, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 10:05:17] Pattern (QP1121-3)
+						 key: 145, mouse: 18, ctrl+tab: 03, alt+tab: 00 
+[2021-07-14 10:15:25] Pattern (KS1022-5)
+						 key: 112, mouse: 05, ctrl+tab: 01, alt+tab: 02 
+[2021-07-14 10:25:44] Pattern (QP1121-3)
+						 key: 010, mouse: 00, ctrl+tab: 00, alt+tab: 01 
+[2021-07-14 10:36:49] Pattern (CP1104-7)
+						 key: 241, mouse: 20, ctrl+tab: 03, alt+tab: 00 
+[2021-07-14 10:47:14] Pattern (QP1121-3)
+						 key: 082, mouse: 00, ctrl+tab: 01, alt+tab: 02 
+[2021-07-14 10:57:51] Pattern (AK1021-9)
+						 key: 369, mouse: 24, ctrl+tab: 04, alt+tab: 03 
+[2021-07-14 11:09:00] Pattern (OY1215-4)
+[2021-07-14 11:19:25] Pattern (KS1022-5)
+						 key: 235, mouse: 16, ctrl+tab: 03, alt+tab: 06 
+[2021-07-14 11:29:41] Pattern (QP1121-3)
+						 key: 170, mouse: 22, ctrl+tab: 03, alt+tab: 04 
+[2021-07-14 11:40:08] Pattern (AK1021-9)
+						 key: 316, mouse: 19, ctrl+tab: 02, alt+tab: 00 
+[2021-07-14 11:50:14] Pattern (QP1121-3)
+						 key: 154, mouse: 17, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 12:01:07] Pattern (AK1021-9)
+						 key: 263, mouse: 14, ctrl+tab: 02, alt+tab: 05 
+[2021-07-14 12:11:33] Pattern (OY1215-4)
+						 key: 185, mouse: 18, ctrl+tab: 03, alt+tab: 00 
+[2021-07-14 12:21:46] Pattern (CP1104-7)
+						 key: 264, mouse: 21, ctrl+tab: 02, alt+tab: 04 
+[2021-07-14 12:31:47] Pattern (QP1121-3)
+						 key: 161, mouse: 19, ctrl+tab: 01, alt+tab: 01 
+[2021-07-14 12:42:01] Pattern (OY1215-4)
+						 key: 203, mouse: 23, ctrl+tab: 02, alt+tab: 03 
+[2021-07-14 12:52:46] Pattern (QP1121-3)
+						 key: 145, mouse: 19, ctrl+tab: 01, alt+tab: 01 
+[2021-07-14 13:03:24] Pattern (KS1022-5)
+						 key: 114, mouse: 04, ctrl+tab: 01, alt+tab: 02 
+[2021-07-14 13:13:43] Pattern (AK1021-9)
+						 key: 061, mouse: 00, ctrl+tab: 01, alt+tab: 04 
+[2021-07-14 13:23:43] Pattern (KS1022-5)
+						 key: 217, mouse: 18, ctrl+tab: 02, alt+tab: 03 
+[2021-07-14 13:33:53] Pattern (OY1215-4)
+[2021-07-14 13:40:24] Stop <--
+[2021-07-14 13:40:24] Close GDollar!  (8 h : 46 m : 41 s)
+--------------------------------------------------------------------------
+[2021-07-14 20:14:43] Run Gdollar!
+[2021-07-14 20:14:58] Start -->
+[2021-07-14 20:14:58] Pattern (QP1121-3)
+						 key: 161, mouse: 18, ctrl+tab: 01, alt+tab: 01 
+[2021-07-14 20:25:29] Pattern (AK1021-9)
+						 key: 080, mouse: 08, ctrl+tab: 01, alt+tab: 03 
+[2021-07-14 20:35:46] Pattern (OY1215-4)
+						 key: 196, mouse: 21, ctrl+tab: 02, alt+tab: 03 
+[2021-07-14 20:46:09] Pattern (KS1022-5)
+						 key: 244, mouse: 19, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 20:56:39] Pattern (OY1215-4)
+						 key: 216, mouse: 20, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 21:07:08] Pattern (QP1121-3)
+[2021-07-14 21:17:12] Pattern (AK1021-9)
+						 key: 315, mouse: 22, ctrl+tab: 03, alt+tab: 05 
+[2021-07-14 21:27:19] Pattern (CP1104-7)
+						 key: 279, mouse: 20, ctrl+tab: 03, alt+tab: 04 
+[2021-07-14 21:37:30] Pattern (OY1215-4)
+						 key: 007, mouse: 00, ctrl+tab: 00, alt+tab: 04 
+[2021-07-14 21:47:51] Pattern (KS1022-5)
+						 key: 199, mouse: 17, ctrl+tab: 02, alt+tab: 03 
+[2021-07-14 21:58:01] Pattern (AK1021-9)
+						 key: 333, mouse: 24, ctrl+tab: 04, alt+tab: 03 
+[2021-07-14 22:09:02] Pattern (OY1215-4)
+						 key: 081, mouse: 02, ctrl+tab: 01, alt+tab: 04 
+[2021-07-14 22:19:18] Pattern (QP1121-3)
+						 key: 150, mouse: 16, ctrl+tab: 01, alt+tab: 00 
+[2021-07-14 22:29:26] Pattern (KS1022-5)
+						 key: 193, mouse: 19, ctrl+tab: 02, alt+tab: 03 
+[2021-07-14 22:39:39] Pattern (CP1104-7)
+						 key: 290, mouse: 18, ctrl+tab: 02, alt+tab: 04 
+[2021-07-14 22:49:50] Pattern (QP1121-3)
+						 key: 156, mouse: 19, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 23:00:07] Pattern (AK1021-9)
+						 key: 130, mouse: 05, ctrl+tab: 01, alt+tab: 05 
+[2021-07-14 23:10:20] Pattern (KS1022-5)
+						 key: 086, mouse: 07, ctrl+tab: 01, alt+tab: 04 
+[2021-07-14 23:20:35] Pattern (CP1104-7)
+						 key: 272, mouse: 18, ctrl+tab: 02, alt+tab: 02 
+[2021-07-14 23:31:11] Pattern (AK1021-9)
+						 key: 318, mouse: 19, ctrl+tab: 03, alt+tab: 02 
+[2021-07-14 23:41:51] Pattern (KS1022-5)
+						 key: 189, mouse: 18, ctrl+tab: 02, alt+tab: 01 
+[2021-07-14 23:51:54] Pattern (AK1021-9)
+						 key: 271, mouse: 18, ctrl+tab: 02, alt+tab: 02 
+[2021-07-15 00:02:19] Pattern (QP1121-3)
+						 key: 189, mouse: 21, ctrl+tab: 02, alt+tab: 01 
+[2021-07-15 00:13:31] Pattern (CP1104-7)
+						 key: 281, mouse: 13, ctrl+tab: 04, alt+tab: 02 
+[2021-07-15 00:24:12] Pattern (AK1021-9)
+						 key: 136, mouse: 05, ctrl+tab: 01, alt+tab: 03 
+[2021-07-15 00:34:20] Pattern (CP1104-7)
+						 key: 093, mouse: 04, ctrl+tab: 01, alt+tab: 04 
+[2021-07-15 00:44:35] Pattern (QP1121-3)
+						 key: 046, mouse: 00, ctrl+tab: 00, alt+tab: 01 
+[2021-07-15 00:55:08] Pattern (KS1022-5)
+						 key: 204, mouse: 18, ctrl+tab: 03, alt+tab: 04 
+[2021-07-15 01:05:21] Pattern (QP1121-3)
+[2021-07-15 01:14:59] Stop <--
+[2021-07-15 19:01:06] Start -->
+[2021-07-15 19:01:40] Pattern (AK1021-9)
+						 key: 183, mouse: 00, ctrl+tab: 02, alt+tab: 05 
+[2021-07-15 19:11:41] Pattern (KS1022-5)
+						 key: 221, mouse: 15, ctrl+tab: 03, alt+tab: 04 
+[2021-07-15 19:21:44] Pattern (AK1021-9)
+[2021-07-15 19:24:40] Stop <--
+[2021-07-15 19:24:40] Close GDollar!  (5 h : 23 m : 35 s)
+--------------------------------------------------------------------------
+[2021-07-15 21:05:30] Run Gdollar!
+[2021-07-15 21:05:40] Start -->
+[2021-07-15 21:05:40] Pattern (OY1215-4)
+						 key: 205, mouse: 21, ctrl+tab: 01, alt+tab: 05 
+[2021-07-15 21:15:58] Pattern (KS1022-5)
+						 key: 126, mouse: 00, ctrl+tab: 01, alt+tab: 00 
+[2021-07-15 21:26:38] Pattern (CP1104-7)
+						 key: 115, mouse: 00, ctrl+tab: 01, alt+tab: 06 
+[2021-07-15 21:37:09] Pattern (QP1121-3)
+						 key: 172, mouse: 16, ctrl+tab: 02, alt+tab: 02 
+[2021-07-15 21:47:27] Pattern (CP1104-7)
+						 key: 053, mouse: 04, ctrl+tab: 00, alt+tab: 04 
+[2021-07-15 21:57:32] Pattern (QP1121-3)
+						 key: 163, mouse: 16, ctrl+tab: 04, alt+tab: 01 
+[2021-07-15 22:08:06] Pattern (OY1215-4)
+						 key: 067, mouse: 02, ctrl+tab: 00, alt+tab: 02 
+[2021-07-15 22:18:18] Pattern (KS1022-5)
+						 key: 236, mouse: 17, ctrl+tab: 02, alt+tab: 00 
+[2021-07-15 22:29:09] Pattern (QP1121-3)
+						 key: 049, mouse: 00, ctrl+tab: 01, alt+tab: 02 
+[2021-07-15 22:39:44] Pattern (AK1021-9)
+						 key: 308, mouse: 23, ctrl+tab: 04, alt+tab: 02 
+[2021-07-15 22:50:25] Pattern (QP1121-3)
+						 key: 023, mouse: 01, ctrl+tab: 00, alt+tab: 01 
+[2021-07-15 23:00:48] Pattern (KS1022-5)
+						 key: 038, mouse: 04, ctrl+tab: 00, alt+tab: 01 
+[2021-07-15 23:11:20] Pattern (QP1121-3)
+						 key: 181, mouse: 15, ctrl+tab: 02, alt+tab: 02 
+[2021-07-15 23:21:46] Pattern (KS1022-5)
+						 key: 176, mouse: 20, ctrl+tab: 01, alt+tab: 03 
+[2021-07-15 23:32:15] Pattern (CP1104-7)
+						 key: 273, mouse: 16, ctrl+tab: 04, alt+tab: 05 
+[2021-07-15 23:42:33] Pattern (OY1215-4)
+[2021-07-15 23:49:33] Stop <--
+[2021-07-16 00:15:09] Close GDollar!  (2 h : 43 m : 53 s)
+--------------------------------------------------------------------------
+[2021-07-21 21:11:47] Run Gdollar!
+[2021-07-21 21:11:52] Start -->
+[2021-07-21 21:11:52] Pattern (OY1215-4)
+[2021-07-21 21:22:20] Pattern (QP1121-3)
+[2021-07-21 21:30:41] Stop <--
+[2021-07-21 21:30:41] Close GDollar!  (0 h : 18 m : 49 s)
+--------------------------------------------------------------------------
+[2021-08-11 01:28:36] Run Gdollar!
+[2021-08-11 01:29:03] Start -->
+[2021-08-11 01:29:03] Pattern (OY1215-4)
+						 key: 009, mouse: 03, ctrl+tab: 00, alt+tab: 02 
+[2021-08-11 01:39:15] Pattern (KS1022-5)
+--------------------------------------------------------------------------
+[2021-08-11 01:47:04] Run Gdollar!
+[2021-08-11 01:47:07] Close GDollar!  (0 h : 00 m : 00 s)
